@@ -4,6 +4,10 @@
 
 <img src="./docs/preview.gif" alt="Preview da aplicação">
 
+## Aplicação Online
+
+[Aplicação da loja de produtos 3D online: ](https://loja-produto-3d.vercel.app/)
+
 ## Iniciando a Aplicação
 
 Primeiramente, abra o seu terminal na raiz do projeto e instale as dependencias necessárias usando o código:
