@@ -6,7 +6,7 @@
 
 ## Aplicação Online
 
-[Aplicação da loja de produtos 3D online: ](https://loja-produto-3d.vercel.app/)
+[Aplicação da loja de produtos 3D online](https://loja-produto-3d.vercel.app/)
 
 ## Iniciando a Aplicação
 
